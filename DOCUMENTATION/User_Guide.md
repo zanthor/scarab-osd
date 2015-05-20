@@ -23,6 +23,12 @@ To navigate the OSD:<br>
 <hr />
 <h1>MW OSD GUI quick reference guide</h1>
 
+<h2>Build the MW OSD GUI</h2>
+<ul><li>Download and install <a href="https://processing.org/download/" target="new">Processing</a> for your operating system.</li>
+<li>From the Sketch Menu select Import Library and then Add Library.</li>
+<li>Search for controlp5 and install it.</li>
+<li>Then Open the MW_OSD_GUI.pde file in Processing and click the Play button.</li></ul>
+
 <h2>Controls and communication</h2>
 
 <b>Comm settings</b>
